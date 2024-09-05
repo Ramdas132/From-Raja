@@ -11,7 +11,7 @@ I like to play cricket because it gives me joy and also it's **teamwork** based 
 3. sachin Tendulkar
 2. Shreyas iyer
 3. Ms. Dhobi
-- bangalore
-- vijayawada
-- vizag
-- Hyderabad
+- Bangalore Cricket Stadium
+- Vijayawada Cricket Stadium
+- Vizag Cricket Stadium
+- Hyderabad Cricket Stadium
