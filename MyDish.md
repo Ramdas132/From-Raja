@@ -23,4 +23,15 @@ My Favorite Food to Eat is Chicken Biriyani because it has all indian spices in 
 >
 *AUTHOR: Sneha Bojja*
 
+---
+
+### CODE FENCING
+THE BELOW SNIPET USED TO CONVERTS JSON INTO AN OBJECT.
+'''
+import 'dart:convert';
+
+JsonDecoder().convert(yourJson)
+'''
+[SNIPET SOURCE](https://code.pieces.app/collections/dart)
+
 
