@@ -26,7 +26,7 @@ My Favorite Food to Eat is Chicken Biriyani because it has all indian spices in 
 ---
 
 ### CODE FENCING
-THE BELOW SNIPET USED TO CONVERTS JSON INTO AN OBJECT.
+THE BELOW SNIPET USED TO CONVERTS `JSON INTO AN OBJECT`.
 ```
 import 'dart:convert';
 
